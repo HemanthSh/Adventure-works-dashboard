@@ -7,7 +7,7 @@ The objective of this project is to provide a detailed and insightful analysis o
 **Purpose of sales analytics:**
 Sales analytics serves to:
 
-Monitor Performance: Track sales performance against targets and historical data.
+**Monitor Performance:** Track sales performance against targets and historical data.
 Identify Trends: Analyze trends in revenue, order quantities, and customer behavior.
 Optimize Strategies: Inform strategic decisions to optimize sales and marketing efforts.
 Forecasting: Use historical data to predict future sales trends and patterns.
